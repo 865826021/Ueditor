@@ -1,5 +1,5 @@
 {
-  "name": "Hyperbolaa/ueditor",
+  "name": "hyperbolaa/ueditor",
   "type": "project",
   "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
   "keywords": ["laravel","ueditor","laravel-u-editor","laravel5 web text editor","hyperbolaa"],
