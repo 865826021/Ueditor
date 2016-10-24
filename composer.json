@@ -1,0 +1,28 @@
+{
+  "name": "Hyperbolaa/ueditor",
+  "type": "project",
+  "description": "UEditor for laravel5. Support i18n. UEditor is a Rich Text Web Editor From Baidu.",
+  "keywords": ["laravel","ueditor","laravel-u-editor","laravel5 web text editor","hyperbolaa"],
+  "homepage": "https://github.com/hyperbolaa/Ueditor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "chongyu",
+      "email": "chongyu366@gmail.com"
+    }
+  ],
+
+  "require": {
+    "php": ">=5.4.0",
+    "ext-fileinfo": "*",
+    "illuminate/support": "5.*",
+    "qiniu/php-sdk": "7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hyperbolaa\\UEditor\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
