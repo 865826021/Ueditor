@@ -1,6 +1,3 @@
-Laravel 5  UEditor
-=============
-
 [UEditor](http://ueditor.baidu.com) 是由百度web前端研发部开发所见即所得富文本web编辑器
 
 此包为laravel5的支持,新增多语言配置,可自由部署前端代码,默认基于 UEditor 1.4.3.1
@@ -109,3 +106,4 @@ The detail useage Please see [http://ueditor.baidu.com](http://ueditor.baidu.com
 ## License
 
 Laravel 5  UEditor is licensed under [The MIT License (MIT)](LICENSE).
+
